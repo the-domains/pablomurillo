@@ -1,6 +1,6 @@
 name: PabloMurillo
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.24162
 typography_spectrum: 0.21539
 title: No Hay Nada
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.5
-  lightness: 0
-  saturation: 0
+  lightness: 1
+  saturation: 0.5
   rhythmicContrast: 0
 purpose: []
